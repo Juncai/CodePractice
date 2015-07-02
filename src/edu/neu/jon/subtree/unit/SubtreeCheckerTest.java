@@ -4,8 +4,6 @@ import static org.junit.Assert.*;
 
 import org.junit.Before;
 import org.junit.Test;
-import org.omg.CORBA.PRIVATE_MEMBER;
-
 import edu.neu.jon.model.TreeNode;
 import edu.neu.jon.subtree.SubtreeChecker;
 
